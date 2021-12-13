@@ -8,6 +8,6 @@
 
 }
 
-.punklist :: -webkit-scrollbar {
+.punklist ::-webkit-scrollbar {
     display: none;
 }

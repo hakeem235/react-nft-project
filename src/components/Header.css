@@ -64,6 +64,7 @@
     align-items: center;
     justify-content: center;
     object-fit: contain;
+    cursor: pointer;
 }
 
 .themeSwitchContainer > img {

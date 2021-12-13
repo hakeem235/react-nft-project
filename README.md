@@ -1,6 +1,6 @@
 # Web 3.0 || NFT project
 
-###Technology stack:
+### Technology stack:
  
 - [thirdweb.com](https://thirdweb.com)
 - [Ethereum](https://ethereum.org)
